@@ -1,6 +1,6 @@
 // complete the given function
 
-function palindrome(str){
+function palindrome(string){
  const len = string.length;
 
     // loop through half of the string
